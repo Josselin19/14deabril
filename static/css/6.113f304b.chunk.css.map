@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Components/Evidencia/Evidencia.css"],"names":[],"mappings":"AAAA,WACI,oBAAsB,CACtB,qBACJ,CAEA,OACI,aACJ,CAEA,MACI,WACJ","file":"6.113f304b.chunk.css","sourcesContent":[".img-class {\r\n    width: 100% !important;\r\n    height: 100% !important;\r\n}\r\n\r\n.title {\r\n    color: #71cc49;\r\n}\r\n\r\n.card{\r\n    height: 100%;\r\n}\r\n"]}
